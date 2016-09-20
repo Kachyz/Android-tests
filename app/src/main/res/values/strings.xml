@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="txtHola">Hello World!</string>
+    <string name="texto_boton_click">Click!</string>
+    <string name="msj">Holis</string>
+    <string name="txt_accion">Accion</string>
+</resources>
