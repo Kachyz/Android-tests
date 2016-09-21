@@ -4,4 +4,12 @@
     <string name="texto_boton_click">Click!</string>
     <string name="msj">Holis</string>
     <string name="txt_accion">Accion</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+    </string-array>
+    <string name="titulo_tarjeta">Android 5.0</string>
+    <string name="descripcion_tarjeta">"Version donde entro lo de material design"</string>
 </resources>

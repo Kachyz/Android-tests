@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorMorado">#EF350A79</color>
+    <color name="colorFondo">#cfcbcb</color>
 </resources>
